@@ -5,7 +5,9 @@
 ## Welcome 👋
 
 Thank you for signing up to join our team at Logosic! We're excited to have you on board.
+<br>
 App Domain: http://logosic.com
+<br>
 Company App Domain: http://logosicinc.com
 ## Important Documents
 
